@@ -2,10 +2,10 @@
 
 ## Encabezados
 # Encabezado Nivel 1
-##ENcabezado nivel 2
+## Encabezado nivel 2
 ...
-##### ENcabezado nivel 5
-###### ENcabezado nivel 6
+##### Encabezado nivel 5
+###### Encabezado nivel 6
 
 ## Negritas
 
