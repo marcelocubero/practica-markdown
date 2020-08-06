@@ -8,7 +8,7 @@
 ###### Encabezado nivel 6
 
 ## Itálicas
-*Texto en itálica*
+*Texto en itálica*  
 _Otro texto en itálica_
 
 ## Negritas
