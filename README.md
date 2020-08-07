@@ -27,7 +27,7 @@ Miguel de Cervantes (1605)
 ## Imágenes
 ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 
-![](Python.png)
+![](imagenes/Python.png)
 
 ## Listas 
 
