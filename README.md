@@ -29,7 +29,15 @@ Miguel de Cervantes (1605)
 
 ![](imagenes/Python.png)
 
-## Listas 
+## Listas numeradas
+1. Primero elemento
+2. Segundo elemento
+3. Tercer elemento
+
+## Listas no numeradas
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
 
 # HTML
 <h1> Encabezado de nivel 1 </h1>
