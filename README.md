@@ -22,8 +22,18 @@ __Otro texto en negrita__
 Miguel de Cervantes (1605)
 
 ## Hipervínculos
-[Sitio web de la Universidad Nacional (UNA)]!(https://www.una.ac.cr/)
+[Sitio web de la Universidad Nacional (UNA)](https://www.una.ac.cr/)
 
 ## Imágenes
 
 ## Listas 
+
+# HTML
+<h1> Encabezado de nivel 1 </h1>
+<h2> Encabezado de nivel 2 </h2>
+<h5> Encabezado de nivel 6 </h6>
+
+<strong> Texto negrita </strong>  
+<em> Texto pitálica </em>
+  
+<a href="https://www.una.ac.cr//">Sitio web de la Universidad Nacional (UNA) </a>
