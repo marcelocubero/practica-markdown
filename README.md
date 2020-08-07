@@ -43,3 +43,6 @@ Miguel de Cervantes (1605)
 
 
 <a href="https://www.una.ac.cr//" target="_blank">Sitio web de la Universidad Nacional (UNA) </a>
+
+
+<img src="imagenes/Python.png" alt="Phyton">
