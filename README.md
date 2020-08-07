@@ -16,6 +16,8 @@ _Otro texto en itálica_
 **Texto en negrita**  
 __Otro texto en negrita__
 
+***Texto en negrita e itálica***
+
 ## Citas textuales 
 
 ## Hipervínculos
