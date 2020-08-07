@@ -3,7 +3,8 @@
 ## Encabezados
 # Encabezado Nivel 1
 ## Encabezado nivel 2
-...
+### Encabezado nivel 3
+#### ENcabezado nivel 4
 ##### Encabezado nivel 5
 ###### Encabezado nivel 6
 
