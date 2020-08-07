@@ -25,8 +25,7 @@ Miguel de Cervantes (1605)
 [Sitio web de la Universidad Nacional (UNA)](https://www.una.ac.cr/)
 
 ## Imágenes
-! [] (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png
-)
+! [R] (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 ## Listas 
 
 # HTML
