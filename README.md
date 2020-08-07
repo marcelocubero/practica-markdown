@@ -36,4 +36,7 @@ Miguel de Cervantes (1605)
 <strong> Texto negrita </strong>  
 <em> Texto pitálica </em>
   
-<a href="https://www.una.ac.cr//">Sitio web de la Universidad Nacional (UNA) </a>
+<a href="https://www.una.ac.cr//">Sitio web de la Universidad Nacional (UNA) </a>  
+
+
+<a href="https://www.una.ac.cr//"target="_blank">Sitio web de la Universidad Nacional (UNA) </a>
