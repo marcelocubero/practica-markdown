@@ -18,7 +18,8 @@ __Otro texto en negrita__
 ***Texto en negrita e itálica***
 
 ## Citas textuales 
-> *En un lugar de la Mancha*
+> *En un lugar de la Mancha*  
+Miguel de Cervantes (1605)
 
 ## Hipervínculos
 
